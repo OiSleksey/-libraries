@@ -1,0 +1,14 @@
+{
+  "name": "balons",
+  "version": "1.0.0",
+  "description": "My project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.sass css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
