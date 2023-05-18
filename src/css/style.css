@@ -1,3 +1,7 @@
+/* @import 'custom';
+@import '~bootstrap/scss/bootstrap';
+@import 'bootstrap/dist/css/bootstrap.min.css'; */
+@import url('elements.css');
 .accordion {
   --bs-accordion-active-bg: #6c757d;
   --bs-accordion-active-color: #fff;
